@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 10px;;
+    color: aliceblue;
+   
+}
+div{
+    height: 60px;
+    background-color: #000000;
+}
+#login{
+    color: #f08804;
+    font-size: 25px;
+}
+button{
+    background-color: #f08804;
+}
+input{
+    color: #000000;
+}
+a{
+    margin-right: 100px;
+    text-decoration: none;
+}
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+    background-color: #ffffff;
+}
+#content{
+    height: 600px;
+    background-color: white;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: #ffffff;
+}
